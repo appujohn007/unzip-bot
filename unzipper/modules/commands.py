@@ -622,10 +622,6 @@ async def donate_help(_, message: Message):
     await message.reply(Messages.DONATE_TEXT)
 
 
-@unzipperbot.on_message(filters.command("vip"))
-async def vip_help(_, message: Message):
-    await message.reply(Messages.VIP_INFO)
-
 
 @unzipperbot.on_message(
     filters.private & filters.command("addvip") & filters.user(Config.BOT_OWNER)
