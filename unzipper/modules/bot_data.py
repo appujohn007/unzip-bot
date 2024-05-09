@@ -7,11 +7,11 @@ class Messages:
 
     HELP = "Help 📜"
 
-    ABOUT = "About 👀"
+    ABOUT = "About 🧑‍💻"
 
     STATS_BTN = "Stats 📊"
 
-    DONATE = "Donate 💸"
+    DONATE = "Donate 💸❤️"
 
     REFRESH = "Refresh ♻️"
 
@@ -23,7 +23,7 @@ class Messages:
 
     AS_MEDIA = "As media 📺"
 
-    MERGE_BTN = "Merge 🛠️"
+    MERGE_BTN = "Merge 📂+📂"
 
     CHECK = "Check 👀"
 
@@ -70,7 +70,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @Appuz_007 if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -100,14 +100,14 @@ This may take a while, go grab a coffee ☕️
 {}
 {}
 
-**Powered by @EDM115bots**
+**Powered by @botio_devs **
     """
 
-    PROCESSING = "**Processing…**"
+    🌀 PROCESSING = "**Processing…**"
 
-    SPEED = "**Speed :**"
+    🚀 SPEED = "**Speed :**"
 
-    ETA = "**ETA :**"
+    ⏳ ETA = "**ETA :**"
 
     # __main__.py
 
@@ -157,7 +157,7 @@ Select the extraction mode for that merged file 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+Successfully join [.𝙸𝙾 𝙳𝙴𝚅𝚂 ](https://t.me/botio_devs) 🥰
     """
 
     REPORT_TEXT = """
@@ -188,12 +188,12 @@ have been saved from the URL
    • Maybe your archive format isn't supported yet 😔
 
 
-**⚠ IN ALL CASES ⚠**, please send **/clean**, else you can't send any other task 🙂🔫
+**⚠ IN ALL CASES ⚠**, please send **/clean**, else you can't send any other task 🙂🫴
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @Appuz_007 if you think this is a serious error
     """
 
-    HOW_MANY_UPLOADED = "`{}` file(s) have been extracted from that archive"
+    HOW_MANY_UPLOADED = "`{}` file(s) have been extracted from that archive 😱"
 
     PLS_REPLY = "You need to reply ↩️ to a picture with this command for saving it as custom thumbnail 🤓"
 
@@ -233,7 +233,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 I can extract any archive, with password or not, splitted, …
 Send **/commands** to learn more
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by [.𝙸𝙾 𝙳𝙴𝚅𝚂](https://t.me/botio_devs)**
 **/donate** if you can 🥺
     """
 
@@ -255,12 +255,12 @@ Send **/commands** to learn more
 
 
 **• Got an error ?**
-    Visit edm115.dev/unzip#help
+    Message [Dev](https://t.me/Appuz_007)
 
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@Appuz_007** or join the chat **@botio_devs**
     """
 
     ABOUT_TXT = """
@@ -268,15 +268,12 @@ Send **/commands** to learn more
 
 • **Language :** [Python 3.12.1](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Developer :** [Appus](https://t.me/Appuz_007)
 
-**[Rate me ⭐](https://t.me/BotsArchive/2705)**
-Made with ❤️ by **@EDM115bots**
+Made with ❤️ by **[.𝙸𝙾 𝙳𝙴𝚅𝚂](https://t.me/botio_devs)**
     """
 
     DONATE_TEXT = """
---**NOT AVAILABLE YET !**--
 
 I'm going to be honest : **this bot costs me money**…
 Nothing's free on this world, however I try to keep this bot for free for as many people as possible
@@ -285,17 +282,10 @@ I don't like to put restrictions, nor getting your PM's flooded with ads…
 So if you can, donate :)
 It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
 
---How ?--
-• **[Paypal](https://www.paypal.me/8EDM115)**
-• **[GitHub Sponsors](https://github.com/sponsors/EDM115)**
-• **[Directly in Telegram](https://t.me/EDM115bots/544)**
-• **[BuyMeACoffee](https://www.buymeacoffee.com/edm115)**
-• **[Send cryptos (not recommended)](https://edm115.shadd.eu.org/)**
-
+--How to donate ?--
+🤍 if you are willing to contribute, DM our developer @Appuz_007 ❤️
 Thanks for your contribution 😊
 
---Side note :--
-Donation doesn't count as a VIP subscription. Check **/vip** for more info
     """
 
     VIP_INFO = """
@@ -458,7 +448,7 @@ Do you really want to delete your thumbnail ?
 
 `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @Appuz_007 if you think this is a serious error
     """
 
     CANCELLED_TXT = "**{} ✅**"
@@ -540,7 +530,7 @@ Use the **/merge** command
     QUERY_PARSE_ERR = """
 Fatal query parsing error 💀
 
-Please contact @EDM115_chat with details and screenshots
+Please contact @Appuz_007 with details and screenshots
     """
 
     GIVE_NEW_NAME = """
@@ -558,7 +548,7 @@ Please send the new file name (**--INCLUDE THE FILE EXTENTION !--**)
     UPLOADED = """
 **Successfully uploaded ✅**
 
-**Join @EDM115bots ❤️**
+**Join @botio_devs ❤️**
     """
 
     NO_FILE_LEFT = "There's no file left to upload"
@@ -795,7 +785,6 @@ Here is the list of the commands you can use (only in private btw) :
 **/addthumb** : Upload with a custom thumbnail
 **/delthumb** : Removes your thumbnail
 **/report** : Used by replying to a message, sends it to the bot owner (useful for bug report, or any question)
-**/vip** : __Not available yet__ Know more about the VIP subscription
 **/commands** : This message
     """
 
@@ -881,10 +870,6 @@ class Buttons:
             [
                 InlineKeyboardButton(Messages.HELP, callback_data="helpcallback"),
                 InlineKeyboardButton(Messages.ABOUT, callback_data="aboutcallback"),
-            ],
-            [
-                InlineKeyboardButton(Messages.STATS_BTN, callback_data="statscallback"),
-                InlineKeyboardButton(Messages.DONATE, callback_data="donatecallback"),
             ],
         ]
     )
@@ -1035,17 +1020,6 @@ class Buttons:
             [
                 InlineKeyboardButton(Messages.DELETE, callback_data="del_thumb"),
                 InlineKeyboardButton(Messages.CANCEL_IT, callback_data="nope_thumb"),
-            ],
-        ]
-    )
-
-    RATE_ME = InlineKeyboardMarkup(
-        [
-            [
-                InlineKeyboardButton(
-                    Messages.RATE, url="https://t.me/BotsArchive/2705"
-                ),
-                InlineKeyboardButton(Messages.DONATE, callback_data="donatecallback"),
             ],
         ]
     )
