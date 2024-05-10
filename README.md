@@ -1,5 +1,9 @@
 <div align="center">
 
+
+
+sudo apt-get install p7zip-full p7zip-rar zstd
+
 # Unarchiver Bot
 
 ## A Telegram bot to extract various types of archives
