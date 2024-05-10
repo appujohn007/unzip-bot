@@ -103,11 +103,11 @@ This may take a while, go grab a coffee ☕️
 **Powered by @botio_devs **
     """
 
-    🌀 PROCESSING = "**Processing…**"
+    PROCESSING = "**Processing…**"
 
-    🚀 SPEED = "**Speed :**"
+    SPEED = "**Speed :**"
 
-    ⏳ ETA = "**ETA :**"
+    ETA = "**ETA :**"
 
     # __main__.py
 
