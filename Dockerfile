@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM python:3.11 
 
 RUN apt-get update && \
     apt-get upgrade -y && \
