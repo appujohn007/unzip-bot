@@ -4,9 +4,8 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     apt-get install -y python3-pip zstd p7zip-full gcc git ffmpeg wget && \
     wget https://www.7-zip.org/a/7z2107-linux-x64.tar.xz && \
-    tar -xvf 7z2107-linux-x64.tar.xz && \
-    mv 7z2107 /opt/7zip && \
-    ln -s /opt/7zip/7zz /usr/bin/7zz && \
+    tar -xf 7z2107-linux-x64.tar.xz && \
+    mv 7zz /usr/bin/7zz && \
     python3 -m venv /venv && \
     apt-get clean
 
