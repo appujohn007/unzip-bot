@@ -16,6 +16,7 @@ RUN pip3 install -U pip setuptools wheel && \
 
 WORKDIR /app
 
+COPY needs.txt /app/needs.txt
 RUN pip3 install -U -r needs.txt
 
 COPY .env /app/.env
