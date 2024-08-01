@@ -6,6 +6,10 @@ import time
 from pyrogram import idle
 
 from config import Config
+import pyrogram.utils
+
+pyrogram.utils.MIN_CHANNEL_ID = -1009999999999
+
 
 from . import LOGGER, unzipperbot
 from .helpers.start import check_logs, dl_thumbs, set_boot_time, removal
